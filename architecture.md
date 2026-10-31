@@ -1,7 +1,7 @@
-# Ajaja Docs — Architecture & Authorization Model
+# Ajaia Docs — Architecture & Authorization Model
 
 ## Overview
-Ajaja Docs is a lightweight, cloud-synchronized document editor inspired by Google Docs. The architecture is engineered around the principle of **defense-in-depth**, using Next.js 16 (App Router), TypeScript, Tailwind CSS, Tiptap, and Supabase PostgreSQL with strict Row Level Security (RLS).
+Ajaia Docs is a lightweight, cloud-synchronized document editor inspired by Google Docs. The architecture is engineered around the principle of **defense-in-depth**, using Next.js 16 (App Router), TypeScript, Tailwind CSS, Tiptap, and Supabase PostgreSQL with strict Row Level Security (RLS).
 
 ---
 
