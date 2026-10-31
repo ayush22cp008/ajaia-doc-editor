@@ -1,5 +1,5 @@
 -- ==============================================================================
--- Ajaja Document Editor - Production SQL Migration (Final Hardened Edition)
+-- Ajaia Document Editor - Production SQL Migration (Final Hardened Edition)
 -- Architecture Review Adjustments:
 -- 1. Explicit Column-Level INSERT Grants on documents (title, content, owner_id)
 -- 2. Email normalization & pre-index duplicate sanitization check
