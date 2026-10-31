@@ -1,5 +1,5 @@
 -- ==============================================================================
--- Ajaja Document Editor: Comprehensive pgTAP Authorization & Security Test Suite
+-- Ajaia Document Editor: Comprehensive pgTAP Authorization & Security Test Suite
 -- Executes strictly against pgTAP: plan(), is(), is_empty(), throws_ok(), finish()
 -- Tests run under SET LOCAL ROLE authenticated and SET LOCAL request.jwt.claim.sub
 -- ==============================================================================
