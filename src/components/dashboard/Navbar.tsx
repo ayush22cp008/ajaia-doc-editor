@@ -38,7 +38,7 @@ export function Navbar({ userEmail, userName }: NavbarProps) {
           </div>
           <div className="flex flex-col">
             <span className="font-bold text-base tracking-tight text-zinc-900 dark:text-zinc-100 flex items-center gap-1.5">
-              Ajaja Docs
+              Ajaia Docs
             </span>
           </div>
         </Link>
