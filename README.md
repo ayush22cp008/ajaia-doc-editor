@@ -1,6 +1,6 @@
-# Ajaja Document Editor
+# Ajaja Docs
 
-A modern, lightweight collaborative document editor inspired by Google Docs, built with Next.js, Supabase, and Tiptap.
+Ajaja Docs is a modern, lightweight collaborative document editor inspired by Google Docs, built with Next.js, Supabase, and Tiptap.
 
 ---
 
