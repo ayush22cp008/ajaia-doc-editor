@@ -25,7 +25,7 @@ export default async function HomePage() {
               <FileText className="w-5 h-5" />
             </div>
             <span className="font-bold text-base tracking-tight text-zinc-900 dark:text-zinc-100">
-              Ajaja Docs
+              Ajaia Docs
             </span>
           </div>
 
@@ -58,7 +58,7 @@ export default async function HomePage() {
         </h1>
 
         <p className="mt-6 text-lg text-zinc-600 dark:text-zinc-400 max-w-2xl leading-relaxed">
-          Ajaja Docs combines Google Docs-style collaboration with PostgreSQL Row Level Security.
+          Ajaia Docs combines Google Docs-style collaboration with PostgreSQL Row Level Security.
           Create, organize, and manage your documents with end-to-end authorization.
         </p>
 
@@ -120,7 +120,7 @@ export default async function HomePage() {
 
       {/* Footer */}
       <footer className="w-full border-t border-zinc-200 dark:border-zinc-800 py-6 text-center text-xs text-zinc-400">
-        <p>&copy; {new Date().getFullYear()} Ajaja Document Editor. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Ajaia Document Editor. All rights reserved.</p>
       </footer>
     </div>
   )
